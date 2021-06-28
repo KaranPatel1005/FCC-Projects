@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FCC-Projects/simple-react-markdown-previewer/static/css/main.66849beb.chunk.css",
+    "main.js": "/FCC-Projects/simple-react-markdown-previewer/static/js/main.4b237fd0.chunk.js",
+    "main.js.map": "/FCC-Projects/simple-react-markdown-previewer/static/js/main.4b237fd0.chunk.js.map",
+    "runtime-main.js": "/FCC-Projects/simple-react-markdown-previewer/static/js/runtime-main.e9ba1f29.js",
+    "runtime-main.js.map": "/FCC-Projects/simple-react-markdown-previewer/static/js/runtime-main.e9ba1f29.js.map",
+    "static/js/2.85f93183.chunk.js": "/FCC-Projects/simple-react-markdown-previewer/static/js/2.85f93183.chunk.js",
+    "static/js/2.85f93183.chunk.js.map": "/FCC-Projects/simple-react-markdown-previewer/static/js/2.85f93183.chunk.js.map",
+    "index.html": "/FCC-Projects/simple-react-markdown-previewer/index.html",
+    "static/css/main.66849beb.chunk.css.map": "/FCC-Projects/simple-react-markdown-previewer/static/css/main.66849beb.chunk.css.map",
+    "static/js/2.85f93183.chunk.js.LICENSE.txt": "/FCC-Projects/simple-react-markdown-previewer/static/js/2.85f93183.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9ba1f29.js",
+    "static/js/2.85f93183.chunk.js",
+    "static/css/main.66849beb.chunk.css",
+    "static/js/main.4b237fd0.chunk.js"
+  ]
+}
