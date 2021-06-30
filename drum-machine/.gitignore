@@ -2,8 +2,6 @@
 
 # dependencies
 /node_modules
-/simple-react-markdown-previewer/node_modules
-/drum-machine/node_modules
 /.pnp
 .pnp.js
 
