@@ -4,6 +4,7 @@
 /node_modules
 /simple-react-markdown-previewer/node_modules
 /drum-machine/node_modules
+/react-calculator/node_modules
 /.pnp
 .pnp.js
 
