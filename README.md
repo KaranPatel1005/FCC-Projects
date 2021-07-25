@@ -6,3 +6,5 @@
 **🥁🎶 Drum Machine - [Link](https://karanpatel1005.github.io/FCC-Projects/drum-machine)**
 
 **🧮 React Calculator - [Link](https://karanpatel1005.github.io/FCC-Projects/react-calculator/)**
+
+**⏱ Stop Clock  - [Link](https://karanpatel1005.github.io/FCC-Projects/stop-clock/)**
