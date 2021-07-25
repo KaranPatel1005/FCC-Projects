@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/FCC-Projects/stop-clock/static/css/main.95c3b3ba.chunk.css",
+    "main.js": "/FCC-Projects/stop-clock/static/js/main.6ac8364a.chunk.js",
+    "main.js.map": "/FCC-Projects/stop-clock/static/js/main.6ac8364a.chunk.js.map",
+    "runtime-main.js": "/FCC-Projects/stop-clock/static/js/runtime-main.71a57831.js",
+    "runtime-main.js.map": "/FCC-Projects/stop-clock/static/js/runtime-main.71a57831.js.map",
+    "static/js/2.73152c7d.chunk.js": "/FCC-Projects/stop-clock/static/js/2.73152c7d.chunk.js",
+    "static/js/2.73152c7d.chunk.js.map": "/FCC-Projects/stop-clock/static/js/2.73152c7d.chunk.js.map",
+    "index.html": "/FCC-Projects/stop-clock/index.html",
+    "static/css/main.95c3b3ba.chunk.css.map": "/FCC-Projects/stop-clock/static/css/main.95c3b3ba.chunk.css.map",
+    "static/js/2.73152c7d.chunk.js.LICENSE.txt": "/FCC-Projects/stop-clock/static/js/2.73152c7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71a57831.js",
+    "static/js/2.73152c7d.chunk.js",
+    "static/css/main.95c3b3ba.chunk.css",
+    "static/js/main.6ac8364a.chunk.js"
+  ]
+}
